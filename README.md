@@ -1,5 +1,7 @@
 # Explanatory_Analysis_Movies
 Analyze and explore movies dataset and to find out 'best and worst' categories.
+# Dataset <br />
+kaggle datasets download -d rounakbanik/the-movies-dataset
 # Features:
 
 id: The ID of the movie (clear/unique identifier).<br />
